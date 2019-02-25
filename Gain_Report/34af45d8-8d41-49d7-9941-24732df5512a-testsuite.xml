@@ -1,0 +1,139 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1551079756284" stop="1551079803574">
+  <name>Test_Use_Case</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1551079756284" status="passed" stop="1551079793611">
+      <name>Test_Use_Case_Setting.TestSettingLogin.test_setting[test_001-\u7535\u6c60-\u7535\u6c60-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5660-MainThread"/>
+        <label name="host" value="EDIANZU-9E3HI0F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1551079783568" status="passed" stop="1551079793610">
+          <name>验证设置的正确性</name>
+          <title>验证设置的正确性</title>
+          <attachments/>
+          <steps>
+            <step start="1551079783568" status="passed" stop="1551079793610">
+              <name>输入搜索项并断言</name>
+              <title>输入搜索项并断言</title>
+              <attachments/>
+              <steps>
+                <step start="1551079783568" status="passed" stop="1551079790208">
+                  <name>输入操作</name>
+                  <title>输入操作</title>
+                  <attachments>
+                    <attachment source="b33ec1e9-93ee-40a9-b649-c9e7f0d09016-attachment.txt" title="输入：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+                <step start="1551079790208" status="passed" stop="1551079793610">
+                  <name>断言</name>
+                  <title>断言</title>
+                  <attachments>
+                    <attachment source="a7fbdb6a-d5ca-475a-95df-695b5456daaf-attachment.txt" title="断言的用例编号：" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1551079791208" status="passed" stop="1551079793048">
+                      <name>获取截图</name>
+                      <title>获取截图</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                    <step start="1551079793048" status="passed" stop="1551079793394">
+                      <name>获取元素列表中的text值</name>
+                      <title>获取元素列表中的text值</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                    <step start="1551079793394" status="passed" stop="1551079793610">
+                      <name>点击回退按钮</name>
+                      <title>点击回退按钮</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1551079793394" status="passed" stop="1551079793610">
+                          <name>点击操作</name>
+                          <title>点击操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1551079793619" status="passed" stop="1551079803574">
+      <name>Test_Use_Case_Setting.TestSettingLogin.test_setting[test_002-WLAN-WLAN-WLAN \u8bbe\u7f6e]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5660-MainThread"/>
+        <label name="host" value="EDIANZU-9E3HI0F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1551079793621" status="passed" stop="1551079803574">
+          <name>验证设置的正确性</name>
+          <title>验证设置的正确性</title>
+          <attachments/>
+          <steps>
+            <step start="1551079793621" status="passed" stop="1551079803574">
+              <name>输入搜索项并断言</name>
+              <title>输入搜索项并断言</title>
+              <attachments/>
+              <steps>
+                <step start="1551079793621" status="passed" stop="1551079800344">
+                  <name>输入操作</name>
+                  <title>输入操作</title>
+                  <attachments>
+                    <attachment source="13e203e5-d0e1-4184-a6f9-7d7f91280341-attachment.txt" title="输入：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+                <step start="1551079800344" status="passed" stop="1551079803574">
+                  <name>断言</name>
+                  <title>断言</title>
+                  <attachments>
+                    <attachment source="1dcfa552-045d-4503-96c8-d639358b39f5-attachment.txt" title="断言的用例编号：" type="text/plain"/>
+                    <attachment source="35c20711-8d24-4781-b38c-e5ed1ed4b6d0-attachment.txt" title="断言失败，错误信息：" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1551079801345" status="passed" stop="1551079803317">
+                      <name>获取截图</name>
+                      <title>获取截图</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                    <step start="1551079803317" status="passed" stop="1551079803574">
+                      <name>点击回退按钮</name>
+                      <title>点击回退按钮</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1551079803317" status="passed" stop="1551079803574">
+                          <name>点击操作</name>
+                          <title>点击操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
